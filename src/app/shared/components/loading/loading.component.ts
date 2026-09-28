@@ -1,0 +1,33 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-loading',
+  standalone: true,
+  template: `
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>Loading…</p>
+    </div>
+  `,
+  styles: [
+    `
+      .loading {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px;
+        color: var(--text-muted);
+      }
+      .spinner {
+        width: 36px;
+        height: 36px;
+        border: 3px solid var(--border);
+        border-top-color: var(--primary);
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+      }
+      @keyframes spin { to { transform: rotate(360deg); } }
+    `,
+  ],
+})
+export class LoadingComponent {}
