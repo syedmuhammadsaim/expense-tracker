@@ -509,7 +509,11 @@ MIT License — see [LICENSE](LICENSE) file.
 
 **Syed Muhammad Saim**
 
-- 📧 Email: [codewithsaim2025@gmail.com](mailto:codewithsaim2025@gmail.com)
+**Business Inquiries:**
+- 📧 Business: [syedmuhammadsaim.busniess@gmail.com](mailto:syedmuhammadsaim.busniess@gmail.com)
+
+**Personal Contact:**
+- 📧 Personal: [syedmuhammadsaim.contact@gmail.com](mailto:syedmuhammadsaim.contact@gmail.com)
 - 💼 GitHub: [@syedmuhammadsaim](https://github.com/syedmuhammadsaim)
 
 ---
